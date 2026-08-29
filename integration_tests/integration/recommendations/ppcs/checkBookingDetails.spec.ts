@@ -576,7 +576,7 @@ context('Check Booking Details page', () => {
         ethnicity: 'Enter an ethnicity',
         dateOfBirth: blankIndicator,
         dateOfBirthEdited: false,
-        cro: blankIndicator,
+        cro: 'You must enter a CRO',
         croEdited: false,
         custodyStatus: blankIndicator,
         custodyGroup: 'You must enter determinate or indeterminate',
